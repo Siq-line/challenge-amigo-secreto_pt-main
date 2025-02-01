@@ -26,3 +26,6 @@ O projeto possui a seguinte estrutura de arquivos:
 4. A lista de amigos será atualizada automaticamente.
 5. Clique no botão "Sortear amigo" para sortear um amigo secreto da lista.
 
+## Link
+
+
